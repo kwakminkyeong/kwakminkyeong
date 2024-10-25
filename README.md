@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## 웹디자이너 곽민경입니다. 👋
+### ✨2009년부터 웹디자이너로 활동하고 있습니다.
+- 🔭 저는 쇼핑몰 관리와 상품촬영, 영상촬영 및 편집, 편집디자인, 인쇄물제작을 해왔습니다.
+- 🌱 2023년 자바를 배우고 정보처리기사에 도전하고 있습니다.
+- 👯 구직중에 있습니다. 연락주세요~
+- 📫 연락 방법: 010-8982-7903
+- 😄 편안한 공감 소유자입니다.
+- ⚡ 배울수 있고 대화가 통하며 유머러스한 사람을 추앙합니다.
 <!--
 **kwakminkyeong/kwakminkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
