@@ -17,6 +17,9 @@
 ## 😄 성격
    - 편안한 공감 소유자입니다.
      
+## 🤔 스킬
+   -Adobe Photoshop, Adobe Illustrator, Photography, Adobe Premier Pro, HTML, CSS, JAVASCRIPT, JAVA, MYSQL, Adobe XD, Figma
+     
 ## ⚡ 좋아하는 것
    - 예쁜거 좋아해요.
    - 손뜨개, 인형만들기, 퀼트, 재봉, 비즈
