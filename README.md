@@ -22,11 +22,11 @@
 ## 🤔 스킬
    - Adobe Photoshop, Adobe Illustrator, Photography, Adobe Premier Pro, HTML, CSS, JAVASCRIPT, JAVA, MYSQL, Adobe XD, Figma
 
-   - 민경이의 포트폴리오 : https://kwakminkyeong.github.io/minkysite/
+   - <b>민경이의 포트폴리오 : https://kwakminkyeong.github.io/minkysite/</b>
                           <BR>인쇄디자인, 상세페이지, 사이트제작, 쇼핑몰관리, 영상편집, 공부한 것 등을 볼 수 있습니다. 
-   - 도봉구청 Imitation :https://kwakminkyeong.github.io/dobong/
+   - <b>도봉구청 Imitation :https://kwakminkyeong.github.io/dobong/</b>
                           <BR>도봉구청 메인페이지만 따라해 봤습니다. 반응형까지 구현
-   - 스타벅스 Imitation https://kwakminkyeong.github.io/imit_starbucks/
+   - <b>스타벅스 Imitation https://kwakminkyeong.github.io/imit_starbucks/</b>
                           <BR>스타벅스 메인페이지 이미지 나타내기만 구현해 봤습니다. 반응형은 실기시험 끝나고 해볼께요^^
      
 ## ⚡ 좋아하는 것
